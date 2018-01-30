@@ -10,8 +10,7 @@ public class TheMainClass {
 		ArrayFun learnArrays = new ArrayFun();
 		
 		//learnArrays.showInstructions();
-		//learnArrays.intArrayExample();
-		
+		//learnArrays.intArrayExample();		
 		
 		Matrix my2D = new Matrix();
 		//my2D.test2D();

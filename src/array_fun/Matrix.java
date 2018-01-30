@@ -11,7 +11,7 @@ public class Matrix {
 	
 	private int[][] game = { 
 			{ 0, 0, 0 }, // row col 00, 01, 02
-			{ 0, 1, 0 }, // row col 10, 11, 12
+			{ 0, 0, 0 }, // row col 10, 11, 12
 			{ 0, 0, 0 }  // row col 20, 21, 22
 	};
 	
@@ -101,7 +101,8 @@ public class Matrix {
 		/************* END OF ELABORATE, THOROUGH TESTING ************/
 		//
 		/*************** START THE REAL TIC TAC TOE GAME  ************/
-		
+//		
+		/*
 		System.out.println("\nEverything working?  YEA!\n");
 		System.out.println("Time to earn a grade!");
 		System.out.println("1. Change int[][] to char[][]");
@@ -121,13 +122,12 @@ public class Matrix {
 		System.out.println("(remember char use == like int; Strings must use .equals() )");
 		System.out.println("3 rows + 3 cols + 2 diags = 8 tests for a win");
 		System.out.println("If no winner, but all cells are full that is a tie - 9 moves means all cells are full");
-		
-		
+				
 		System.out.println("\nGRADING IN INCREMENTAL STEPS");
 		System.out.println("1. First grade: Have X, O players make moves");
 		System.out.println("where you see updated board -- but");
 		System.out.println("-- no check for win, no check for tie, no ask to go again");
-		
+		*/
 		
 	}
 

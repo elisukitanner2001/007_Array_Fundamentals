@@ -4,8 +4,7 @@ import javax.swing.JOptionPane;
 
 public class ArrayFun {
 
-	public void showInstructions() {
-		
+	public void showInstructions() {		
 		// Next time:  Fix this tedious mess of code with an ARRAY - YEAH!
 		/*
 		String msg = "";
